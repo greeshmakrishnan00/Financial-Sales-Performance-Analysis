@@ -65,7 +65,7 @@ The interactive dashboard presents key financial sales metrics and business perf
 
 ## 📊 DASHBOARD PREVIEW
 
-![Sleep Cycle Productivity Analysis Dashboard]()
+![Sleep Cycle Productivity Analysis Dashboard](https://github.com/greeshmakrishnan00/FINANCIAL-SALES-PERFORMENCE-ANALYSIS/blob/main/FINANCIAL%20SALES%20PERFORMANCE%20ANALYSIS_DASHBOARD.png)
 
 *Interactive Power BI Dashboard – Financial Sales Performence Analysis*
 
